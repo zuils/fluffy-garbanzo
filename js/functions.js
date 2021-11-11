@@ -427,7 +427,7 @@ function getNUALevel(a, b, c, d, s, threshold) {
     return _right;
 }
 
-function getDogcogLevel(m, apply_limit = true) {
+function getDogcogLevel(m, apply_limit = false) {
     dogcog_limit = (apply_limit) ? 3743 : 0;
     return getNUALevel(200 * Math.log(2), 0.01, 1 / 9999999999, m.times(0.927).pow(2), 1, dogcog_limit);
 }
