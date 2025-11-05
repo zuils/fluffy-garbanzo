@@ -7,9 +7,18 @@ graceoflives
 This calculator is inspired by [Shruikan864](https://www.reddit.com/user/Shruikan864)'s [Rules of thumb 1.0 Spreadsheet](https://www.reddit.com/r/ClickerHeroes/comments/4nox6i/rules_of_thumb_10_spreadsheet/) and [sugima](https://www.reddit.com/user/sugima)'s [1.0 Rules of Thumb](https://www.reddit.com/r/ClickerHeroes/comments/4naohc/math_and_transcendance/).
 
 ## Last updated
-March 21, 2018.
+November 5, 2025.
 
 ## Changelogs
+### November 5, 2025
+* Fixed nog formula to be siya-based instead of lib-based.
+
+### October 25, 2025
+* Updated formulas to account for different hero types.
+
+### October 17, 2025
+* Fixed nogardnit formula.
+  
 ### March 21, 2018
 * Remove level restrictions for skill ancients.
 
